@@ -45,27 +45,27 @@ a{
 }
 .score1{
  color: black;
- background-color: rgb(192, 192, 224);
+
  font-family: sans-serif;
  text-decoration: underline black 3.5px;
- margin-left: 200px;
-font-size: 200%;
+ margin-left: 50px;
+font-size: 20%;
 }
 .score2{
     color: black;
-    background-color: rgb(192, 192, 224);
+    
     font-family: sans-serif;
     text-decoration: underline black 3.5px;
-    margin-left: 200px;
+    margin-left: 50px;
     font-size: 20%;
    }
 
    .score3{
     color: black;
-    background-color: rgb(192, 192, 224);
+   
     font-family: sans-serif;
     text-decoration: underline black 3.5px;
-    margin-left: 200px;
+    margin-left: 50px;
     font-size: 20%;
    }
 
